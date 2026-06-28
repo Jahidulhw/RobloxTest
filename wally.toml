@@ -1,0 +1,12 @@
+[package]
+name = "jahidulhw/robloxtest"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "cometahn142/promise@0.1.2"
+Networker = "lcarpet/networker@0.1.1"
+
+[server-dependencies]
+ProfileService = "firecam702/profileservice@1.0.0"
